@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ML and Data
 -----------
 
-* 🌍  I'm based in Earth
+* 🌍  I'm based on Earth
 * 🖥️  See my portfolio at [Website ki link](http://amangautampf.netlify.app)
 * ✉️  You can contact me at [myselfaman09@gmail.com](mailto:myselfaman09@gmail.com)
 * 🧠  I'm currently learning ML-Ops
@@ -32,7 +32,6 @@ ML and Data
 <p>Deep Learning</p>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
 </p>
 
 ## Socials
